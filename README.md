@@ -22,9 +22,3 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-```mermaid
-graph LR
-A[Plano Amigoo Credz - 557] --> B[Produto Amigoo Credz - 926]
-B --> D(metadata - Objeto de uso geral)
-```
